@@ -11,7 +11,7 @@
 ## Tech
 
 - Django
-- PostGreSQL
+- PostgreSQL
 
 ## Procedure
 
