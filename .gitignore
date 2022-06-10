@@ -28,7 +28,7 @@ wheels/
 *.sqlite3
 staticfiles/
 ads/
-media/csvfiles
+# media/csvfiles
 # !media/workbooks
 datadump.json
 
